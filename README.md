@@ -21,3 +21,13 @@ Just looking at the presentations and jotting down a few ideas
    - user all pay by donating
    - calls within the network are just VOIP (no routing over traditional
    trunks)
+ - [ ] todoist cli
+ - [ ] todoist github task mash
+ - [ ] todoist-compass: allows one to specify lists by location (grocery store)
+ and suggest a user an item to perform based on the location. That way if I
+ have specified to to a few things at the office, todoist would bulk them up
+ nicely and then propose a set of activities that get me out of the office by
+ following a sensible route to get the things done (e.g.: groceries first,
+ send a postcard to mom, then pickup some takeaway, after which a few office
+ activities follow, before I do that workout I had planned)
+   - could use Watson's AI for this maybe?!? (long shot)
