@@ -12,3 +12,12 @@ Just looking at the presentations and jotting down a few ideas
    - installable
    - slack extension
    - text service :smile:
+ - [ ] Open Phone system: Allow routing of calls from crowd-sourced networks to
+ traditional networks (internationally).
+   - is there sufficient bandwith for audio?
+   - get phonenumbers in the US and EU
+   - allow people to call anyone in the supported regions and route those calls
+   through the available number.
+   - user all pay by donating
+   - calls within the network are just VOIP (no routing over traditional
+   trunks)
